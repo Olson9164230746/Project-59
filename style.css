@@ -1,0 +1,44 @@
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+ul {
+    text-align: right;
+}
+
+a {
+    color: red;
+}
+body {
+    text-align: center;
+}
+    
+
+
+h1 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+h2 {
+    color: purple;
+}
+#about {
+    background: linear-gradient( #E1BEE7 0%,#90CAF9 100%);
+	background-repeat:no-repeat;
+}
+nav {
+background-color:#E1BEE7;
+}
+.link:hover {
+    background-color: white;
+}
+img {
+   width: 200px;
+    border-radius: 50%;
+}
